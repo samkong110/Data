@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"http://wilon.oschina.io/static/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"Pylinter",
+		"Python PEP8 Autoformat",
+		"SublimeCodeIntel"
+	]
+}
